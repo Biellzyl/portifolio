@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    color: white;
+    background-color: #000;
+}
+
+.navbar {
+    padding: 15px;
+}
+
+.menu {
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+.menu:hover {
+    color: #0d6efd;
+}
+
+.inicio {
+    background-color: #000;
+    padding: 140px 20px;
+}
+
+.inicio h1 {
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+
+.inicio p {
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+.secao {
+    padding: 70px 20px;
+}
+
+.secao h2 {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.fundo {
+    background-color: #111;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 2px 8px #cccccc;
+}
+
+.habilidade {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.habilidade h5 {
+    color: #0d6efd;
+    font-size: 22px;
+}
+
+.projeto {
+    margin-bottom: 20px;
+}
+
+.projeto h5 {
+    font-size: 21px;
+}
+
+.formulario {
+    max-width: 600px;
+    margin: auto;
+}
+
+.formulario label {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.formulario button {
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    margin: 0;
+}
